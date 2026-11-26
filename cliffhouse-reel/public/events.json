@@ -1,0 +1,114 @@
+{
+ "fps": 30,
+ "total": 52.14,
+ "durationInFrames": 1565,
+ "scenes": [
+  {
+   "name": "teaser",
+   "start": 0.0,
+   "end": 0.95
+  },
+  {
+   "name": "establish",
+   "start": 0.95,
+   "end": 7.85
+  },
+  {
+   "name": "boss",
+   "start": 7.85,
+   "end": 12.77
+  },
+  {
+   "name": "reveal",
+   "start": 12.77,
+   "end": 15.48
+  },
+  {
+   "name": "night",
+   "start": 15.48,
+   "end": 18.96
+  },
+  {
+   "name": "y2024",
+   "start": 18.96,
+   "end": 23.21
+  },
+  {
+   "name": "glass",
+   "start": 23.21,
+   "end": 30.9
+  },
+  {
+   "name": "y2026",
+   "start": 30.9,
+   "end": 35.55
+  },
+  {
+   "name": "paper",
+   "start": 35.55,
+   "end": 41.88
+  },
+  {
+   "name": "montage",
+   "start": 41.88,
+   "end": 44.14
+  },
+  {
+   "name": "finale",
+   "start": 44.14,
+   "end": 49.09
+  },
+  {
+   "name": "end",
+   "start": 49.09,
+   "end": 52.14
+  }
+ ],
+ "t": {
+  "teaserBlink": 0.45,
+  "titleIn": 1.2,
+  "locIn": 1.2,
+  "houseName": 3.52,
+  "salute": 5.62,
+  "crownIn": 10.44,
+  "crownDrop": 11.39,
+  "eyesBlink": 13.07,
+  "civetPop": 14.17,
+  "cardIn": 14.52,
+  "thumps": [
+   15.83,
+   16.25,
+   16.67,
+   17.09,
+   17.51,
+   17.93,
+   18.35
+  ],
+  "cal2024": 19.06,
+  "podiumIn": 20.88,
+  "peek": 27.32,
+  "dropForm": 29.45,
+  "dropHit": 30.05,
+  "ayye": 30.25,
+  "calFlips": [
+   30.95,
+   31.119999999999997,
+   31.29
+  ],
+  "house2026": 32.78,
+  "munch": [
+   33.58,
+   34.28
+  ],
+  "paperLand": 37.05,
+  "headlineCivet": 40.76,
+  "montageCars": [
+   42.08,
+   42.58,
+   43.08,
+   43.58
+  ],
+  "banner": 47.99,
+  "endText": 49.34
+ }
+}

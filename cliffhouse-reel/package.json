@@ -1,0 +1,17 @@
+{
+  "name": "cliffhouse-reel",
+  "private": true,
+  "version": "1.0.0",
+  "description": "2D cartoon Malayalam reel: the palm civets of Cliff House",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render CliffHouseReel out/cliffhouse-reel.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.547",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "remotion": "^4.0.547",
+    "zod": "^4.6.7"
+  }
+}
